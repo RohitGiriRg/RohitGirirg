@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Giri Rg</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
-<center>
-  
-<img alt='coding' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif'/>
-</center>
+
+<p align="center">
+  <img alt='coding' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif'/>
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/rohitgi82891634" target="blank"><img src="https://img.shields.io/twitter/follow/rohitgi82891634?logo=twitter&style=for-the-badge" alt="rohitgi82891634" /></a> </p>
