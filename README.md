@@ -24,16 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=rohitgirirg&hide=issues&count_private=true&show_icons=true&theme=calm" alt="Rohit's GitHub Stats">
-</p>
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgirirg&layout=compact&theme=calm" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitgirirg&" alt="Rohit's GitHub Streak">
-</p>
+
 
 Thank you for visiting my profile, and I look forward to collaborating on exciting projects and advancing the boundaries of Full Stack Development!
