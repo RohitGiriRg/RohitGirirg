@@ -15,6 +15,9 @@
 - 📫 How to reach me **rohitgirirg7027@gmail.com**
 - 📄 Know about my experiences [https://rohit-giri-portfolio-81f379.netlify.app/](https://rohit-giri-portfolio-81f379.netlify.app/)
 
+![](https://komarev.com/ghpvc/?username=RohitGiriRg)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rohitgi82891634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitgi82891634" height="30" width="40" /></a>
