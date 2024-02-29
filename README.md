@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohit Giri Rg</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer | MERN Stack | React Native (Android/iOS) Development From India</h3>
 
 <p align="center">
   <img alt='coding' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif'/>
 </p>
-
+[![Image of https://github.com/RohitGiriRg/my-profile-views-counter](https://github.com/RohitGiriRg/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/RohitGiriRg/my-profile-views-counter)
 <p align="left"> <a href="https://twitter.com/rohitgi82891634" target="blank"><img src="https://img.shields.io/twitter/follow/rohitgi82891634?logo=twitter&style=for-the-badge" alt="rohitgi82891634" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Project**
@@ -18,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rohitgi82891634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitgi82891634" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-giri-rg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-giri-rg/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100090685621153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100090685621153" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/this.rohitgiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/this.rohitgiri/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rohitgirirg7027/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rohitgirirg7027/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-giri-rg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-giri-rg/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100090685621153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100090685621153" height="30" width="40" /></a>
+<a href="https://www.instagram.com/this.rohitgiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/this.rohitgiri/" height="30" width="40" /></a>
+<a href="https://leetcode.com/rohitgirirg7027/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rohitgirirg7027/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
