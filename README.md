@@ -4,7 +4,7 @@
 <p align="center">
   <img alt='coding' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif'/>
 </p>
-[![Image of https://github.com/RohitGiriRg/my-profile-views-counter](https://github.com/RohitGiriRg/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/RohitGiriRg/my-profile-views-counter)
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/207237845/week.md)
 <p align="left"> <a href="https://twitter.com/rohitgi82891634" target="blank"><img src="https://img.shields.io/twitter/follow/rohitgi82891634?logo=twitter&style=for-the-badge" alt="rohitgi82891634" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Project**
