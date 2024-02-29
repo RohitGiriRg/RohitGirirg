@@ -4,7 +4,7 @@
 <p align="center">
   <img alt='coding' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif'/>
 </p>
-![](https://komarev.com/ghpvc/?username=RohitGiriRg&base=1000&style=flat-square)
+
 <p align="left"> <a href="https://twitter.com/rohitgi82891634" target="blank"><img src="https://img.shields.io/twitter/follow/rohitgi82891634?logo=twitter&style=for-the-badge" alt="rohitgi82891634" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Project**
@@ -14,7 +14,7 @@
 - 💬 Ask me about **React, JavaScript,MERN.**
 - 📫 How to reach me **rohitgirirg7027@gmail.com**
 - 📄 Know about my experiences [https://rohit-giri-portfolio-81f379.netlify.app/](https://rohit-giri-portfolio-81f379.netlify.app/)
-
+![](https://komarev.com/ghpvc/?username=RohitGiriRg&base=1000&style=flat-square)
 
 
 
