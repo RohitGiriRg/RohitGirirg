@@ -10,7 +10,7 @@ I am a passionate Software Developer with expertise in the Full Stack Developmen
 
 - 🔭 Right now, I'm working on an app using MERN/MEAN, Java, Node.js, Flutter, React Native, and AngularJS, aiming to improve both web and mobile experiences.
 
-Skills & Tools
+#### Skills & Tools
 JavaScript, TypeScript, ReactJS, Next.js, Redux, Redux Toolkit, Babel.js, React Hooks, JAVA,
 Angular JS, Codeigniter 4, Laravel, PHP,
 Node.js, Express.js, Fastify, Swagger, RESTful APIs
