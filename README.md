@@ -4,11 +4,22 @@
 
 <!-- [![GitHub RohitGiriRg](https://img.shields.io/github/followers/RohitGiriRg?label=follow&style=social)](https://github.com/RohitGiriRg) -->
 
-I am a passionate Software Developer with expertise in the Full Stack Web Development and Android/iOS Development. I have a deep interest in Full Stack Development, and I've built some amazing tools that have garnered attention, such as E-commerce site and Real Time Chat Application.
+I am a passionate Software Developer with expertise in the Full Stack Development and Android/iOS Development. I have a deep interest in Full Stack Development, and I've built some amazing tools that have garnered attention, such as E-commerce site and Backend Services.
 
 🌐 Open Source Contributor : I love contributing to open source projects! I'm into Full Stack Development and also work on Android/iOS apps. By sharing and collaborating with others, I aim to bring cool ideas to life and learn together.
 
-- 🔭 Currently, I'm focused on developing an eSports Application using React Native. Simultaneously, I'm also engaged in building a small project using the MERN stack.
+- 🔭 Right now, I'm working on an app using MERN/MEAN, Java, Node.js, Flutter, React Native, and AngularJS, aiming to improve both web and mobile experiences.
+
+Skills & Tools
+JavaScript, TypeScript, ReactJS, Next.js, Redux, Redux Toolkit, Babel.js, React Hooks, JAVA,
+Angular JS, Codeigniter 4, Laravel, PHP,
+Node.js, Express.js, Fastify, Swagger, RESTful APIs
+Design, GraphQL, Google Firebase, FCM, PostgreSQL, Sequelize.js, MongoDB, NoSQL, MySQ
+HTML5, CSS3, Tailwind CSS, SASS, Material UI, Styled-Components, Bootstrap, React-Icon
+JWT, Authentication, Prisma, RabbitMQ, Nginx, DSA, Microservice, Middleware, System Design
+Git, GitHub, Github Action, NPM, Yarn, Webpack, Netlify, AWS, Azure, Vercel, Heroku, Docker,
+GCP, JWT, Redis, Pub/Sub architecture, CI/CD, OOP, Agile, Scrum, Test-Driven Developmen
+Adobe Photoshop, Adobe Illustrator, Linux ( Ubuntu ), Windows, Polyglot Developer
 
 <!--
 
